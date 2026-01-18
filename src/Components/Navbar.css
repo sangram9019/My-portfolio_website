@@ -59,6 +59,15 @@
     color: var(--text-primary);
 }
 
+.resume {
+    display: flex;
+    align-items: center;
+    height: 40px;
+    width: 110px;
+    /* background-color: ; */
+
+}
+
 /* Responsive Navbar */
 @media (max-width: 768px) {
     .hamburger {
